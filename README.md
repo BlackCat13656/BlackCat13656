@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @BlackCat13656
-- 👀 I’m interested in software engineering and board games. 
-- 🌱 I’m currently learning javaScript from The Odin Project and a BA in Software Engineering from college.
-- 💞️ I’m looking to collaborate on anything computer programming related.
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/HIM.
+- 👀 I’m interested in software engineering/development, board games, extreme sports and futbol.  
+- 🌱 I’m currently studying Computer Programming. 
 - ⚡ Fun fact: I love dark humor. 
 
 <!---
