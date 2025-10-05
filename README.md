@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BlackCat13656
 - 👀 I’m interested in software engineering/development, board games, extreme sports and futbol.  
 - 🌱 I’m currently studying AAS Computer Programming at a Community College.
-- ⚡ From Mexico with Love.
 - ⚡ Fun fact: I love dark humor. 
 
 <!---
