@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackCat13656
-- 👀 I’m interested in software engineering/development, board games, extreme sports and futbol.  
-- 🌱 I’m currently studying AAS Computer Programming at a Community College.
+- 👀 I’m interested in software development, board games, extreme sports and futbol.  
+- 🌱 I’m currently studying AAS Computer Programming at El Paso Community College.
 - ⚡ Fun fact: I love dark humor. 
 
 <!---
