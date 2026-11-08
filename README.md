@@ -14,7 +14,7 @@ Aspiring front-end developer studying AAS Computer Programming at El Paso Commun
 ## 🚀 Projects
 
 - **[Wrecked Skate Shop](https://github.com/BlackCat13656/wrecked-skate-shop)**: an e-commerce front end with custom branding, a product catalog, and a working cart. [Live demo](add-link-here)
-- **[Vanilla JS Projects]([add-repo-link-here](https://github.com/BlackCat13656/vanillaJsProjects.git))**: a collection of small JavaScript apps built to practice DOM manipulation, async/await, and APIs.
+- **[Vanilla JS Projects](https://github.com/BlackCat13656/vanillaJsProjects.git)**: a collection of small JavaScript apps built to practice DOM manipulation, async/await, and APIs.
 
 ## 🌱 Currently
 
