@@ -28,7 +28,7 @@ Board games, extreme sports, and futbol. I also have a soft spot for dark humor.
 
 ## 📫 Contact
 
-[LinkedIn](www.linkedin.com/in/eessienu)
+[LinkedIn](https://www.linkedin.com/in/eessienu)
 <!---
 BlackCat13656/BlackCat13656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
