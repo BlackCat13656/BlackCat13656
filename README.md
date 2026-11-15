@@ -1,4 +1,4 @@
-# Hi, I'm [Ekan] 👋
+# Hi, I'm Ekan 👋
 
 Aspiring front-end developer studying AAS Computer Programming at El Paso Community College. I build responsive, interactive web apps and I'm looking for my first front-end role.
 
@@ -13,13 +13,15 @@ Aspiring front-end developer studying AAS Computer Programming at El Paso Commun
 
 ## 🚀 Projects
 
-- **[Wrecked Skate Shop](https://github.com/BlackCat13656/wrecked-skate-shop)**: an e-commerce front end with custom branding, a product catalog, and a working cart. [Live demo](add-link-here)
+- **[Trailer Load Planner](https://github.com/BlackCat13656/trailer-load-planner)** *(in progress)*: a drag-and-drop planner for loading pallets into a 48 ft or 53 ft trailer grid, with live space and weight tracking. Built with vanilla JavaScript.
+- **[Wild West Card Shuffler](https://github.com/BlackCat13656/card-shuffler)**: a Wild West themed card shuffler with a shuffle function I wrote myself and a restart option. Built with HTML, CSS, and JavaScript.
+- **[Wrecked Skate Shop](https://github.com/BlackCat13656/wrecked-skate-shop)**: an e-commerce front end with custom branding, a product catalog, and a working cart.
 - **[Vanilla JS Projects](https://github.com/BlackCat13656/vanillaJsProjects.git)**: a collection of small JavaScript apps built to practice DOM manipulation, async/await, and APIs.
 
 ## 🌱 Currently
 
-- Finishing my vanilla JavaScript projects
-- Building out Wrecked Skate Shop
+- Building the Trailer Load Planner
+- Working through The Odin Project (Full Stack JavaScript path)
 - Preparing to learn full-stack development
 
 ## 🎲 Outside of Code
